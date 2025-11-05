@@ -1,0 +1,5 @@
+{
+  "name": "AI Site & Form Builder",
+  "description": "A powerful site builder that allows creating multiple pages and sub-pages, each with a customizable form. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
